@@ -1,0 +1,2 @@
+# flutter_plugin_test
+这是一个研究flutter和原生开发互相调用的插件功能类开发
